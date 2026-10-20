@@ -32,3 +32,11 @@ This project demonstrates a practical Security Operations Center (SOC) home labo
 * Hands-on experience with SIEM configuration, WinCollect deployment, and Sysmon telemetry tuning.
 * Deeper understanding of attack lifecycle mapping against the MITRE ATT&CK framework.
 * Practical incident response workflow: Telemetry Collection ➡️ Rule Triggering ➡️ Offense Triage ➡️ Investigation.
+
+## 📸 Project Screenshots & Proof of Concept
+
+### QRadar SIEM Offenses & Alerts
+![SIEM Alert](Screenshot%20\(13\).png)
+
+### Telemetry & Log Analysis
+![Log Analysis](Screenshot%20\(14\).png)
